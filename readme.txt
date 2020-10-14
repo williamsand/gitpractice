@@ -1,2 +1,2 @@
 this is use for practice git
-use git to administate code and context
+use git to administate code and project or items
